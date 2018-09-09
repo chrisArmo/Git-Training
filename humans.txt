@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pistachio Jones -- Aspiring Developer -- @Armo_Chris
 
 # THANKS
 
-    <name>
+    To all my instructors and mentors!
 
 # TECHNOLOGY COLOPHON
 
