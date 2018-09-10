@@ -10,6 +10,8 @@ Get a good grasp on Git commands, how to use them, and when to use them efficien
 
 Watch Jason Taylor's course on Git and follow along.
 
+Clone the repository, modify, commit, push, fetch and master Git.
+
 ### Copyright
 
 2018 Git Training. All rights reserved.
