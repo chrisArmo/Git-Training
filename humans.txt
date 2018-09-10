@@ -8,6 +8,8 @@
 # THANKS
 
     To all my instructors and mentors!
+    
+    Team Treehouse, Code School, Codecademy and Udemy have been paramount in my growth as a developer. Eternally grateful.
 
 # TECHNOLOGY COLOPHON
 
