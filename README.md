@@ -9,3 +9,7 @@ Get a good grasp on Git commands, how to use them, and when to use them efficien
 ## Use
 
 Watch Jason Taylor's course on Git and follow along.
+
+### Copyright
+
+2018 Git Training. All rights reserved.
